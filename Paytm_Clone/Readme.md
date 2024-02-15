@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AshwinHarishP/Dev-Town-Projects/tree/cae0cc75e97a2baee9a31698e34f9d52563c9482/Paytm_Clone
 ```
 
 2. **Open the project directory:**
